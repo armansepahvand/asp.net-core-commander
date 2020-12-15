@@ -1,12 +1,14 @@
 using System.Collections.Generic;
-using commander.Models;
+using Commander.Models;
 
-namespace commander.Data
+namespace Commander.Data
 
 {
     public interface  ICommanderRepo
     {
         IEnumerable<Command> GetAppCommands();
         Command GetCommandById(int id);
+
+
     }
 }
