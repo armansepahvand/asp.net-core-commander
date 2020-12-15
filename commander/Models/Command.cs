@@ -1,4 +1,4 @@
-namespace commander.Models
+namespace Commander.Models
 {
     //create a model for our commands
     public class Command
