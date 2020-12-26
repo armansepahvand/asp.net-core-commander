@@ -51,10 +51,13 @@ namespace Commander.Controllers
         public ActionResult<CommandReadDto> CreateCommand(CommandCreateDto commandCreateDto)
         {
 
-            var commandModel= _mapper.Map<Command>(commandCreateDto);
+            var commandModel = _mapper.Map<Command>(commandCreateDto);
             _repository.CreateCommand(commandModel);
+            _repository.SaveChanges();
 
-            return Ok(commandModel);
+            var commandReadDto = _mapper.Map<CommandReadDto>(commandModel);
+
+            return Ok(commandReadDto);
 
         }
     }
