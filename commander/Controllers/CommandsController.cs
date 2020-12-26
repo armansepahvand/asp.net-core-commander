@@ -45,6 +45,13 @@ namespace Commander.Controllers
             }
             return NotFound();
         }
+
+        //Post api/commands
+        [HttpPost]
+        public ActionResult<CommandReadDto> CreateCommand(CommandCreateDto commandCreateDto)
+        {
+
+        }
     }
 
 }
