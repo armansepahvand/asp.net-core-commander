@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj": {}
+    "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj": {
+    "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj",
+        "projectUniqueName": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj",
         "projectName": "commander",
-        "projectPath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj",
+        "projectPath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj",
         "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\obj\\",
+        "outputPath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.1, )"
