@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj": {}
+    "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj": {
+    "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj",
+        "projectUniqueName": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj",
         "projectName": "commander",
-        "projectPath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj",
+        "projectPath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj",
         "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\obj\\",
+        "outputPath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",

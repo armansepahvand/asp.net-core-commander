@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mkYd86Y+dvgR4hQ5JyoFqIh6oSEXgSG0WRfWrQ2wNnUrmLUFmGOUhSF80E+VtJZA/sg1X/t1j5eE+gfSZlCKmw==",
+  "dgSpecHash": "KlmbfrZapUqhJAD3dGrX3ohz/3M7detVLllaHNjU5Et9ObeJGsSlesp8Rxn2aX3xvP/t4RyLxbQXfNN+vEHh7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\Commander\\commander.csproj",
+  "projectFilePath": "C:\\Users\\arman\\OneDrive - Southern Alberta Institute of Technology\\Desktop\\github projects\\asp.net\\commander\\commander.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arman\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\arman\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
