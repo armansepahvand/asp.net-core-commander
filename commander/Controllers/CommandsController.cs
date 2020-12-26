@@ -35,7 +35,7 @@ namespace Commander.Controllers
 
 
         //get api/commands/{id}
-        [HttpGet("{id}")]
+        [HttpGet("{id}" ,  Name="GetCommandById")]
         public ActionResult<CommandReadDto> GetCommandById(int id)
         {
             var commandItem = _repository.GetCommandById(id);
