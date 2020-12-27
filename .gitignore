@@ -10,14 +10,5 @@ Commander/bin
 # Local History for Visual Studio Code
 .history/
 
-.gitignore
 
-
-
-
-
-
-commander/obj/commander.csproj.nuget.dgspec.json
-commander/obj/project.nuget.cache
-commander/obj/Debug/netcoreapp3.1/commander.assets.cache
 .gitignore
