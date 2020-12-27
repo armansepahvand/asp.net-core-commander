@@ -4,11 +4,12 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-Commander/obj
-Commander/bin
+obj/
+bin/
 
 # Local History for Visual Studio Code
 .history/
 
 
 .gitignore
+
