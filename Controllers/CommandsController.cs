@@ -21,9 +21,6 @@ namespace Commander.Controllers
             _mapper = mapper;
         }
 
-        //private readonly MockCommanderRepo _repository = new MockCommanderRepo();
-
-
         //Get api/commands
         [HttpGet]
         public ActionResult<IEnumerable<CommandReadDto>> GetAllCommands()
@@ -59,7 +56,6 @@ namespace Commander.Controllers
             var commandReadDto = _mapper.Map<CommandReadDto>(commandModel);
 
             return CreatedAtRoute(nameof(GetCommandById), new { Id = commandReadDto.Id }, commandReadDto);
-            //return Ok(commandReadDto);
 
         }
 
